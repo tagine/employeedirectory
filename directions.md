@@ -1,4 +1,4 @@
-<!-- # Unit 19 React Homework: Employee Directory
+# Unit 19 React Homework: Employee Directory
 
 ## Overview
 
@@ -50,4 +50,4 @@ You are required to submit the following:
 * the URL to the deployed application
 
 * the URL to the Github repository
- -->
+
