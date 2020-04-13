@@ -1,6 +1,7 @@
 import React from "react";
 import Nav from "Nav";
 import User from "User";
+import DataTable from "semantic-ui-react";
 
 
 // For getting data
